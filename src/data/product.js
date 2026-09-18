@@ -11,6 +11,11 @@ const products = {
   colors:["#000000", "#FFFFFF", "#1E3A8A", "#FFB6C1" ],
   stock: 15
 },
+
+
+
+
+// 
     {
         id: 2,
   name: "Classic Oxford Shirt",
